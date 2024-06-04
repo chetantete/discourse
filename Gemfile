@@ -18,13 +18,13 @@ else
   # this allows us to include the bits of rails we use without pieces we do not.
   #
   # To issue a rails update bump the version number here
-  gem 'actionmailer', '6.1.3.2'
-  gem 'actionpack', '6.1.3.2'
-  gem 'actionview', '6.1.3.2'
-  gem 'activemodel', '6.1.3.2'
-  gem 'activerecord', '6.1.3.2'
-  gem 'activesupport', '6.1.3.2'
-  gem 'railties', '6.1.3.2'
+  gem 'actionmailer', '7.1.3.4'
+  gem 'actionpack', '7.1.3.4'
+  gem 'actionview', '7.1.3.4'
+  gem 'activemodel', '7.1.3.4'
+  gem 'activerecord', '7.1.3.4'
+  gem 'activesupport', '7.1.3.4'
+  gem 'railties', '7.1.3.4'
   gem 'sprockets-rails'
 end
 
